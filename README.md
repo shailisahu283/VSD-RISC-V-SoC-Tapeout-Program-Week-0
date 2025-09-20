@@ -83,12 +83,6 @@ gtkwave --version
 
 ---
 
-## 📸 Screenshots / Logs
-
-*(Here you can add screenshots of terminal outputs for yosys -V, iverilog -V, gtkwave --version)*
-
----
-
 ✨ **Next Step → Week 1: RTL Design & Simulation**
 
 ---
