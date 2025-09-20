@@ -83,8 +83,12 @@ gtkwave --version
 
 ---
 
-✨ **Next Step → Week 1: RTL Design & Simulation**
+## 📸 Screenshots / Logs
+
+*(Here you can add screenshots of terminal outputs for yosys -V, iverilog -V, gtkwave --version)*
 
 ---
 
-👉 Would you like me to also **add badges / status checkmarks** (like ✅ Installed, ❌ Pending) in your README so it looks more professional on GitHub?
+✨ **Next Step → Week 1: RTL Design & Simulation**
+
+---
